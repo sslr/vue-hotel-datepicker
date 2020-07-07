@@ -155,7 +155,7 @@ export default {
   props: {
     currentDateStyle: {
       type: [Object, null, String],
-      default: () => ({ border: '1px solid #00c690' })
+      default: () => ({ border: '1px solid #01335d' })
     },
     value: {
       type: String
